@@ -8,7 +8,6 @@ header {
 }
 
 nav{
- 
     text-align: right;
 }
 
@@ -30,7 +29,7 @@ a::before{
     height: 10px;
     margin-right: 10px;
 }
-}
+
 span{
     background-color: black ;
     width: 10px;
