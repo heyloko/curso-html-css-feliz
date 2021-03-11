@@ -1,0 +1,8 @@
+.background {
+    background-color: #3A4042;
+position: absolute;
+width: 1349px;
+height: 730px;
+
+border-bottom: 10px solid #000;
+}
