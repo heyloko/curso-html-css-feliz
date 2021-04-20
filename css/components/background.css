@@ -1,8 +1,11 @@
 .background {
-background-color: #3A4042;
-padding-top: 50px;
-padding-bottom: 100px;
-border-bottom: 10px solid #000;
+    background-color: #3A4042;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    border-bottom: 10px solid #000;
 
 }
 
+.background .main-title{
+    margin-bottom: 60px;
+}

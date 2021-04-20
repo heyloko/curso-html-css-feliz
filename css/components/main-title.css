@@ -10,3 +10,11 @@
     color: #fff;
     text-shadow: none;
 }
+
+.main-title.-third{
+    text-align: center;
+    color: #3A4042;
+    text-shadow: none;
+    margin-top: 50px;
+   
+}
