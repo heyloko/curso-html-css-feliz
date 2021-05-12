@@ -1,6 +1,8 @@
-.main-descripition{
+.main-description{
     color: #000;
     font-size: 30px;
     font-weight: 300;
     line-height: 1.3;
+    padding-left: 50px;
+    padding-right: 50px;
 }
